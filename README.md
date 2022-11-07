@@ -3,7 +3,7 @@
 I am a brazilian civil engineering student at Federal University of Ceará, currently living in Fortaleza. Also, I am Java Back-End student in Devª program, a partnership Let's Code From Ada and B3.
 
 - :computer: I’m currently learning Java Back-End at <a href="https://letscode.com.br/"> Let's Code From Ada </a>
-- - Main technologies: Java, Javascript, HTML, and CSS
+- - Main technologies: Java, Javascript, HTML, CSS and Vue.js
 - - I'm also used to the agile envirolment;
 - 📚 Pre-intermediate in English and French;
 - 📫 How to reach me: marialauradev@gmail.com or https://www.linkedin.com/in/maria-laura-alves/
