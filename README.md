@@ -30,6 +30,6 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 </div>
 
 ##
-<div> 
+<div align ="left"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=MariaLauraDev)
 </div>
