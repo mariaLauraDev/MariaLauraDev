@@ -4,7 +4,7 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 
 - :computer: I am currently learning Java Back-End development at <a href="https://letscode.com.br/"> Let's Code From Ada</a>.
 - - I started in november 2022 an internship in front-end development at <a href="https://www.gocase.com.br/">Gocase Brasil</a>;
-- - Main technologies: Java, JavaScript, HTML, CSS and Vue.js;
+- - Main technologies: Java, JavaScript, HTML, CSS, Vuejs and Nuxtjs;
 - - I am also used to the agile envirolment;
 - 📚 Pre-intermediate in English and French;
 - 📫 How to reach me: marialauradev@gmail.com or https://www.linkedin.com/in/maria-laura-alves/
@@ -20,6 +20,7 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maria-vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Maria-nuxtjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/nuxtjs-original.svg">
 </div>
 
   ##
