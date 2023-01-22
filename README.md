@@ -21,7 +21,13 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maria-vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Maria-nuxtjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Maria-notion" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
+  <img align="center" alt="Maria-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Maria-canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  <img align="center" alt="Maria-figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Maria-illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg">
+  <img align="center" alt="Maria-jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-original.svg">
+
+
 
 </div>
 
