@@ -1,4 +1,4 @@
-### Hi there, I am Maria Laura
+### Hello, World, I'm Maria Laura!
 
 I am a brazilian civil engineering student at Federal University of Ceará, currently living in Fortaleza. Also, I am Java Back-End student in Devª program, a partnership Let's Code From Ada and B3.
 
