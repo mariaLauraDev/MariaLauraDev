@@ -13,7 +13,7 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=mariaLauraDev&show_icons=true&theme=github_dark" alt="marialauradev's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaLauraDev&layout=compact&theme=vision-github_dark" alt="marialauradev's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaLauraDev&layout=compact&theme=github_dark" alt="marialauradev's most languages"/>
 </p>
 </div>
 
