@@ -41,8 +41,6 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
   <a href="https://www.linkedin.com/in/maria-laura-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
 <div align ="left"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=MariaLauraDev)
 </div>
