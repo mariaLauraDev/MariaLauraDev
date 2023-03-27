@@ -9,11 +9,15 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 - 📚 Pre-intermediate in English and French;
 - 📫 How to reach me: marialauradev@gmail.com or https://www.linkedin.com/in/maria-laura-alves/
 
-<div align="center">
-  <a href="https://github.com/mariaLauraDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaLauraDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaLauraDev&layout=compact&langs_count=7&theme=github_dark"/>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mariaLauraDev&show_icons=true&theme=github_dark" alt="marialauradev's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaLauraDev&layout=compact&theme=vision-github_dark" alt="marialauradev's most languages"/>
+</p>
 </div>
+
+## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -28,12 +32,9 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
   <img align="center" alt="Maria-jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Maria-jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
   <img align="center" alt="Maria-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-
-
-
 </div>
 
-  ##
+## 🌐 &nbsp;Social Links
 
 <div> 
   <a href="https://instagram.com/marialauradev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -42,3 +43,17 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MariaLauraDev)
+
+
+<!--
+**marialauradev/marialauradev* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
