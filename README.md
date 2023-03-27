@@ -11,10 +11,9 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=mariaLauraDev&show_icons=true&theme=github_dark" alt="marialauradev's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaLauraDev&layout=compact&theme=github_dark" alt="marialauradev's most languages"/>
-</p>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
