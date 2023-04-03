@@ -43,6 +43,7 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MariaLauraDev)
 
+![Snake animation](https://github.com/mariaLauraDev/mariaLauraDev/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **marialauradev/marialauradev* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
