@@ -2,8 +2,9 @@
 
 I am a brazilian civil engineering student at Federal University of Ceará, currently living in Fortaleza. Also, I am Java Back-End student in Devª program, a partnership Let's Code From Ada and B3.
 
-- :computer: I am currently learning Java Back-End development at <a href="https://letscode.com.br/"> Let's Code From Ada</a>.
+- :computer: I am currently learning Front-End development at <a href="https://frontendmasters.com/">Front End Masters</a>;
 - - I started in november 2022 an internship in front-end development at <a href="https://www.gocase.com.br/">Gocase Brasil</a>;
+- - I completed the course Java Back-End development at <a href="https://letscode.com.br/"> Let's Code From Ada</a> in march 2023;
 - - Main technologies: Java, JavaScript, HTML, CSS, Vuejs and Nuxtjs;
 - - I am also used to the agile envirolment;
 - 📚 Pre-intermediate in English and French;
