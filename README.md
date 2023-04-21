@@ -1,6 +1,6 @@
 ### Hello, World, I'm Maria Laura!
 
-I am a brazilian civil engineering student at Federal University of Ceará, currently living in Fortaleza. Also, I am Java Back-End student in Devª program, a partnership Let's Code From Ada and B3.
+I am a brazilian civil engineering student at Federal University of Ceará, currently living in Fortaleza.
 
 - :computer: I am currently learning Front-End development at <a href="https://frontendmasters.com/">Front End Masters</a>;
 - - I started in november 2022 an internship in front-end development at <a href="https://www.gocase.com.br/">Gocase Brasil</a>;
