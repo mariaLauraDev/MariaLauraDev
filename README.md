@@ -8,7 +8,7 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 - - Main technologies: Java, JavaScript, HTML, CSS, Vuejs and Nuxtjs;
 - - I am also used to the agile envirolment;
 - 📚 Pre-intermediate in English and French;
-- 📫 How to reach me: marialauradev@gmail.com or https://www.linkedin.com/in/maria-laura-alves/
+- 📫 How to reach me: https://www.linkedin.com/in/maria-laura-alves/
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -38,7 +38,6 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 
 <div> 
   <a href="https://instagram.com/marialauradev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:marialauradev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-laura-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
