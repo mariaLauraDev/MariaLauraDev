@@ -5,7 +5,7 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
 - :computer: I am currently learning Front-End development at <a href="https://frontendmasters.com/" target="_blank" rel="noopener">Front End Masters</a>;
 - - I started in november 2022 an internship in front-end development at <a  target="_blank" rel="noopener" href="https://www.gocase.com.br/">Gocase Brasil</a>;
 - - I completed the course Java Back-End development at <a  target="_blank" rel="noopener" href="https://letscode.com.br/"> Let's Code From Ada</a> in march 2023;
-- - Main technologies: Java, JavaScript, HTML, CSS, Vuejs and Nuxtjs;
+- - Main technologies: JavaScript, HTML, CSS, Vuejs, Nuxtjs, Ruby on Rails;
 - - I am also used to the agile envirolment;
 - 📚 Pre-intermediate in English and French;
 - 📫 How to reach me: https://www.linkedin.com/in/maria-laura-alves/
@@ -32,6 +32,8 @@ I am a brazilian civil engineering student at Federal University of Ceará, curr
   <img align="center" alt="Maria-jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Maria-jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
   <img align="center" alt="Maria-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Maria-ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+
 </div>
 
 ## 🌐 &nbsp;Social Links
