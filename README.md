@@ -2,8 +2,7 @@
 
 I am a brazilian civil engineering student at Federal University of Ceará, currently living in Fortaleza.
 
-- :computer: I am currently learning Front-End development at <a href="https://frontendmasters.com/" target="_blank" rel="noopener">Front End Masters</a>;
-- - I started in november 2022 an internship in front-end development at <a  target="_blank" rel="noopener" href="https://www.gocase.com.br/">Gocase Brasil</a>;
+- :computer: I am currently Jr. Software Engineer at <a  target="_blank" rel="noopener" href="https://www.gocase.com.br/">Gocase Brasil</a>;
 - - I completed the course Java Back-End development at <a  target="_blank" rel="noopener" href="https://letscode.com.br/"> Let's Code From Ada</a> in march 2023;
 - - Main technologies: JavaScript, HTML, CSS, Vuejs, Nuxtjs, Ruby on Rails;
 - - I am also used to the agile envirolment;
