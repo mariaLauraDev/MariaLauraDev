@@ -41,8 +41,6 @@ I am a brazilian civil engineering working as software engineer, currently livin
   <a href="https://www.linkedin.com/in/maria-laura-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MariaLauraDev)
-
 
 <!--
 **marialauradev/marialauradev* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
